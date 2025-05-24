@@ -29,11 +29,11 @@ This landing page was built with **Bolt.new** and styled with **TailwindCSS**, f
 
 ## 🛠️ Tools Used
 
-• Bolt.new – Used to rapidly scaffold the site with clean, semantic code
-• TailwindCSS – For fast, utility-first styling and pixel-level layout control
-• Figma – Brainstormed layout ideas and content blocks before development
-• ChatGPT – Used to iterate on copywriting, section structure, and project strategy
-• Netlify – For seamless deployment and live hosting
-• Git & GitHub – Version control and project management
+- Bolt.new – Used to rapidly scaffold the site with clean, semantic code
+- TailwindCSS – For fast, utility-first styling and pixel-level layout control
+- Figma – Brainstormed layout ideas and content blocks before development
+- ChatGPT – Used to iterate on copywriting, section structure, and project strategy
+- Netlify – For seamless deployment and live hosting
+- Git & GitHub – Version control and project management
 
 ---
